@@ -6,7 +6,7 @@ CVPR 2022：Point Cloud Color Constancy
 
 
 ## Data
-we provide the extended illumination labels of NYU-v2, DIODE, and ETH3D as well as the point cloud, the raw format image(for ETH3D), and the de-gamma sRGB image (for NYU-2 and DIODE). 
+We provide the extended illumination labels of NYU-v2, DIODE, and ETH3D as well as the point cloud, the raw format image(for ETH3D), and the de-gamma sRGB image (for NYU-2 and DIODE). 
 
 The data we provide in the URL is enough for evaluating our results in the paper.
 
