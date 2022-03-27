@@ -10,7 +10,7 @@ We provide the extended illumination labels of NYU-v2, DIODE, and ETH3D as well 
 
 The data in the URL is enough for evaluating our results in the paper.
 
-For the depth information on the three open-source datasets, please refer to their website.
+For the full depth information on the three open-source datasets, please refer to their website.
 
 
 
