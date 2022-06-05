@@ -32,3 +32,18 @@ ETH3D: https://www.eth3d.net/datasets#high-res-multi-view
 ## Code
 
 We are using the code for our extension works, the code will be public in Q3,2022.
+
+
+
+## Citation
+
+If you find our work is useful please cite us:
+
+```latex
+@inproceedings{xing2021pccc,
+  title={Point Cloud Color Constancy},
+  author={Xing, Xiaoyan and Qian, Yanlin and Feng, Sibo and Dong, Yuhan and Matas, Jiri},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  year={2022}
+}
+```
