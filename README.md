@@ -15,7 +15,7 @@ Each dataset consists of following parts:
 
 - PointCloud: with resolution of 256 points and 4096 points.
 - Label: illumination label 
-- Image: raw linear RGB image (ETH3D), linearized sRGB image (NYU-v2/DIODE).
+- Image: raw linear RGB image (Depth-AWB & ETH3D), linearized sRGB image (NYU-v2/DIODE).
 - Folds: how we split the different folds for cross validation.
 
 For the full depth information and images on the three open-source datasets, please refer to their website.
