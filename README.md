@@ -6,11 +6,25 @@ CVPR 2022：Point Cloud Color Constancy
 
 
 ## Data
-We provide the extended illumination labels of NYU-v2, DIODE, and ETH3D as well as the point cloud, the raw format image(for ETH3D), and the de-gamma sRGB image (for NYU-2 and DIODE). 
 
-The data in the URL is enough for evaluating our results in the paper.
+### Introduction 
 
-For the full depth information on the three open-source datasets, please refer to their website.
+We provide the extended illumination labels of NYU-v2, DIODE, and ETH3D as well as the point cloud, the raw format image(for ETH3D), and the linearization sRGB image (for NYU-2 and DIODE). 
+
+Each dataset consists of following parts:
+
+- PointCloud: with resolution of 256 points and 4096 points.
+- Label: illumination label 
+- Image: raw linear RGB image (ETH3D), linearized sRGB image (NYU-v2/DIODE).
+- Folds: how we split the different folds for cross validation.
+
+For the full depth information and images on the three open-source datasets, please refer to their website.
+
+NYU-v2：https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html
+
+DIODE：https://diode-dataset.org/
+
+ETH3D: https://www.eth3d.net/datasets#high-res-multi-view
 
 
 
