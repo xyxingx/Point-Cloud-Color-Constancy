@@ -37,13 +37,15 @@ We are using the code for our extension works, the code will be public in Q3,202
 
 ## Citation
 
-If you find our work is useful please cite us:
+If our work helps you, please cite us:
 
 ```latex
-@inproceedings{xing2021pccc,
-  title={Point Cloud Color Constancy},
-  author={Xing, Xiaoyan and Qian, Yanlin and Feng, Sibo and Dong, Yuhan and Matas, Jiri},
-  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
-  year={2022}
+@InProceedings{Xing_2022_CVPR,
+    author    = {Xing, Xiaoyan and Qian, Yanlin and Feng, Sibo and Dong, Yuhan and Matas, Ji\v{r}{\'\i}},
+    title     = {Point Cloud Color Constancy},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {19750-19759}
 }
 ```
