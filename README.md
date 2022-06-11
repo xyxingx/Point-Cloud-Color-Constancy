@@ -40,7 +40,7 @@ We are using the code for our extension works, the code will be public in Q3,202
 If our work helps you, please cite us:
 
 ```latex
-@InProceedings{Xing_2022_CVPR,
+@InProceedings{Xing_2022_PCCC,
     author    = {Xing, Xiaoyan and Qian, Yanlin and Feng, Sibo and Dong, Yuhan and Matas, Ji\v{r}{\'\i}},
     title     = {Point Cloud Color Constancy},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
