@@ -2,7 +2,7 @@
 
 CVPR 2022：Point Cloud Color Constancy
 
-**update: code of training part (24/08/2022)**
+**update: Release training code (24/08/2022)**
 
 \[[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Xing_Point_Cloud_Color_Constancy_CVPR_2022_paper.html)\]   \[[data](https://drive.google.com/drive/folders/1qBw_bvaxIvduIm2vzrYhEPX9khTm1Bo9?usp=sharing)\] 
 
