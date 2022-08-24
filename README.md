@@ -63,12 +63,6 @@ For training
 python train_main.py --datasets NAME OF DATASET --foldn FOLD NUMBER --sizes INPUT SIZE OF POINT --batch_size BATCH SIZE --nepoch EPOCH --gpu_ids GPU ID
 ```
 
-For evaluation
-
-```shell
-python test_main.py --datasets NAME OF DATASET --foldn FOLD NUMBER --sizes INPUT SIZE OF POINT --pth_path PTH MODEL PATH
-```
-
 The `./pointnet/DataLoader.py` can be changed if your use your own data.
 
 ## Citation
