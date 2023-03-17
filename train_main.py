@@ -19,8 +19,7 @@ from utils_p import *
 
 sys.path.append('./pointnet/')
 from model import *
-from datasetloader import *
-from pointnet2_utils import *
+from dataloader import *
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--batch_size', type=int, default=16, help='input batch size')
